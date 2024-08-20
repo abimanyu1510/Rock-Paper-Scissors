@@ -9,8 +9,4 @@ This web application is done using HTML, CSS and JS. This one is a very popular 
 
 **Client:** HTML, CSS, JS
 
-## Deployment
 
-Deploy this project on Github Pages / Vercel / Netlify.
-
-**Live URL:** https://priyanshusharma0326.github.io/Rock-Paper-Scissors/
